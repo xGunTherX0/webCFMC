@@ -1,0 +1,82 @@
+fragment SettingsParts on Settings {
+  __typename
+  siteName
+  tagline
+  logo
+  metaTitle
+  metaDescription
+  footerText
+  social {
+    __typename
+    label
+    url
+  }
+}
+
+fragment HomeParts on Home {
+  __typename
+  badge
+  title
+  highlight
+  description
+  ctaPrimary {
+    __typename
+    label
+    href
+  }
+  ctaSecondary {
+    __typename
+    label
+    href
+  }
+  heroImage
+  stats {
+    __typename
+    value
+    label
+  }
+}
+
+fragment ServicesParts on Services {
+  __typename
+  title
+  icon
+  description
+  features
+  featured
+  order
+}
+
+fragment AboutParts on About {
+  __typename
+  heading
+  intro
+  mission {
+    __typename
+    title
+    text
+  }
+  vision {
+    __typename
+    title
+    text
+  }
+  values {
+    __typename
+    title
+    text
+  }
+  image
+}
+
+fragment ContactParts on Contact {
+  __typename
+  heading
+  intro
+  address
+  city
+  phone
+  email
+  schedule
+  formSuccessMessage
+}

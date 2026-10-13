@@ -1,0 +1,12 @@
+{
+  "title": "Consultoría Tecnológica",
+  "icon": "cog",
+  "description": "Acompañamiento estratégico para la transformación digital: diagnóstico, planificación y elección de las tecnologías adecuadas para tu organización.",
+  "features": [
+    "Auditoría de sistemas",
+    "Hoja de ruta digital",
+    "Acompañamiento de equipos"
+  ],
+  "featured": false,
+  "order": 4
+}

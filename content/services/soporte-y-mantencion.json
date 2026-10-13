@@ -1,0 +1,12 @@
+{
+  "title": "Soporte y Mantención",
+  "icon": "shield",
+  "description": "Planes de soporte continuo para mantener tus sistemas actualizados, seguros y funcionando sin interrupciones.",
+  "features": [
+    "Monitoreo proactivo",
+    "Actualizaciones de seguridad",
+    "Mesa de ayuda"
+  ],
+  "featured": false,
+  "order": 6
+}

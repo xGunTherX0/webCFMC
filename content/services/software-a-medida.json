@@ -1,0 +1,12 @@
+{
+  "title": "Software a Medida",
+  "icon": "code",
+  "description": "Sistemas de gestión, plataformas y herramientas internas diseñadas específicamente para los procesos y necesidades de tu empresa.",
+  "features": [
+    "Arquitectura escalable",
+    "Integraciones con APIs y ERPs",
+    "Mantenimiento y evolución continua"
+  ],
+  "featured": true,
+  "order": 2
+}

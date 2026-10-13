@@ -1,0 +1,31 @@
+{
+  "heading": "Sobre Nosotros",
+  "intro": "CFMC WebCompany SpA es una empresa tecnológica con sede en Talca, Región del Maule. Combinamos ingeniería de software, diseño y estrategia digital para crear productos que generan valor real a nuestros clientes.",
+  "mission": {
+    "title": "Nuestra Misión",
+    "text": "Desarrollar soluciones tecnológicas innovadoras, seguras y escalables que permitan a las empresas de Chile y el mundo crecer, digitalizar sus procesos y destacar en su industria."
+  },
+  "vision": {
+    "title": "Nuestra Visión",
+    "text": "Ser el socio tecnológico de referencia en la Región del Maule y Chile, reconocidos por la calidad de nuestro software, la cercanía con nuestros clientes y la excelencia de nuestro equipo."
+  },
+  "values": [
+    {
+      "title": "Calidad",
+      "text": "Cada línea de código y cada entrega reflejan nuestro compromiso con la excelencia técnica."
+    },
+    {
+      "title": "Innovación",
+      "text": "Adoptamos las tecnologías más actuales para construir productos modernos y escalables."
+    },
+    {
+      "title": "Cercanía",
+      "text": "Trabajamos codo a codo con nuestros clientes, con comunicación transparente y ágil."
+    },
+    {
+      "title": "Compromiso",
+      "text": "Nos involucramos en cada proyecto como si fuera propio, desde la idea hasta el soporte continuo."
+    }
+  ],
+  "image": ""
+}

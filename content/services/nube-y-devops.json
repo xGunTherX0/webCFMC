@@ -1,0 +1,12 @@
+{
+  "title": "Nube y DevOps",
+  "icon": "cloud",
+  "description": "Despliegue, monitoreo y escalado de tus aplicaciones en la nube con pipelines de integración y entrega continua.",
+  "features": [
+    "Infraestructura en la nube",
+    "CI/CD automatizado",
+    "Monitoreo y seguridad"
+  ],
+  "featured": false,
+  "order": 5
+}

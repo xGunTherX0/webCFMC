@@ -1,0 +1,22 @@
+{
+  "siteName": "CFMC WebCompany SpA",
+  "tagline": "Desarrollo de software, soluciones web y consultoría tecnológica",
+  "logo": "",
+  "metaTitle": "CFMC WebCompany SpA | Desarrollo de Software y Soluciones Web en Talca, Chile",
+  "metaDescription": "Empresa de desarrollo de software, soluciones web, aplicaciones y consultoría tecnológica en Talca, Región del Maule, Chile. Transformamos ideas en productos digitales.",
+  "footerText": "© 2026 CFMC WebCompany SpA. Todos los derechos reservados.",
+  "social": [
+    {
+      "label": "LinkedIn",
+      "url": "https://www.linkedin.com/"
+    },
+    {
+      "label": "GitHub",
+      "url": "https://github.com/"
+    },
+    {
+      "label": "Instagram",
+      "url": "https://www.instagram.com/"
+    }
+  ]
+}

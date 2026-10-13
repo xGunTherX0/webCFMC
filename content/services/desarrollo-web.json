@@ -1,0 +1,12 @@
+{
+  "title": "Desarrollo Web",
+  "icon": "globe",
+  "description": "Sitios web corporativos, landing pages y portales modernos, rápidos y optimizados para buscadores, construidos con las tecnologías más actuales.",
+  "features": [
+    "Diseño responsive y UX/UI",
+    "SEO técnico y rendimiento",
+    "CMS y edición visual de contenidos"
+  ],
+  "featured": true,
+  "order": 1
+}

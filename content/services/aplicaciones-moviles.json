@@ -1,0 +1,12 @@
+{
+  "title": "Aplicaciones Móviles",
+  "icon": "mobile",
+  "description": "Apps nativas e híbridas para Android e iOS que conectan tu negocio con tus clientes en cualquier lugar y momento.",
+  "features": [
+    "Publicación en tiendas",
+    "Notificaciones push",
+    "Diseño centrado en el usuario"
+  ],
+  "featured": false,
+  "order": 3
+}
