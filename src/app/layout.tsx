@@ -20,12 +20,18 @@ export async function generateMetadata(): Promise<Metadata> {
       title: data.settings.metaTitle ?? data.settings.siteName,
       description:
         data.settings.metaDescription ?? data.settings.tagline ?? undefined,
+      verification: {
+        google: "QUtIQ4-A75RaQ1TI0rP_VRV_3lhrs-RrDdGGOjOpgDg",
+      },
     };
   } catch {
     return {
       title: "CFMC WebCompany SpA",
       description:
         "Desarrollo de software, soluciones web, aplicaciones y consultoría tecnológica en Talca, Chile.",
+      verification: {
+        google: "QUtIQ4-A75RaQ1TI0rP_VRV_3lhrs-RrDdGGOjOpgDg",
+      },
     };
   }
 }
